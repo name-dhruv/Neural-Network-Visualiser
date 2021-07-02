@@ -1,7 +1,11 @@
+
+
+
+
 # Neural-Network-Visualizer-Web-App
 Web based visualization of neural network prediction using keras and streamlit. 
 
-![Working screen](Docs/example.mp4 "Working demo")
+![Working screen](https://user-images.githubusercontent.com/86816817/124223015-84e57a00-db20-11eb-9784-28e8cf97187c.mp4 "Working demo")
 ## Initial setup
 1. Clone the repository: `git clone https://github.com/name-dhruv/Neural-Network-Visualiser.git`
 2. `cd <repository-path>`
