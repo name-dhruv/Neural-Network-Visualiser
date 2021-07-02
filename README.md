@@ -3,7 +3,7 @@ Web based visualization of neural network prediction using keras and streamlit.
 
 ![Working screen](Docs/example.mp4 "Working demo")
 ## Initial setup
-1. Clone the repository: `git clone https://github.com/name-dhruv/Web-Neural_Network-Visualiser.git`
+1. Clone the repository: `git clone https://github.com/name-dhruv/Neural-Network-Visualiser.git`
 2. Install virtualenv: `(sudo) pip install virtualenv` (sudo if required).
 3. `cd <repository-path>`
 4. `virtualenv venv`
